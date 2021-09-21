@@ -1,3 +1,5 @@
+# Cài đặt lại Canvas cho ae nào bị lỗi
+
 # node-canvas
 
 ![Test](https://github.com/Automattic/node-canvas/workflows/Test/badge.svg)
